@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\bin\Debug\net6.0\MoodAnalyser-UC4.exe
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\bin\Debug\net6.0\MoodAnalyser-UC4.deps.json
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\bin\Debug\net6.0\MoodAnalyser-UC4.runtimeconfig.json
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\bin\Debug\net6.0\MoodAnalyser-UC4.dll
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\bin\Debug\net6.0\MoodAnalyser-UC4.pdb
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\obj\Debug\net6.0\MoodAnalyser-UC4.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\obj\Debug\net6.0\MoodAnalyser-UC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\obj\Debug\net6.0\MoodAnalyser-UC4.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\obj\Debug\net6.0\MoodAnalyser-UC4.AssemblyInfo.cs
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\obj\Debug\net6.0\MoodAnalyser-UC4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\obj\Debug\net6.0\MoodAnalyser-UC4.dll
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\obj\Debug\net6.0\refint\MoodAnalyser-UC4.dll
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\obj\Debug\net6.0\MoodAnalyser-UC4.pdb
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\obj\Debug\net6.0\MoodAnalyser-UC4.genruntimeconfig.cache
+C:\Users\USER\source\BL\MoodAnalyser\MoodAnalyser-UC4\MoodAnalyser-UC4\obj\Debug\net6.0\ref\MoodAnalyser-UC4.dll
