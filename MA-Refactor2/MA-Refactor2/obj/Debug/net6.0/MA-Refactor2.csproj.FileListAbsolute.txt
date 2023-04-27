@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\bin\Debug\net6.0\MA-Refactor2.exe
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\bin\Debug\net6.0\MA-Refactor2.deps.json
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\bin\Debug\net6.0\MA-Refactor2.runtimeconfig.json
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\bin\Debug\net6.0\MA-Refactor2.dll
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\bin\Debug\net6.0\MA-Refactor2.pdb
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\obj\Debug\net6.0\MA-Refactor2.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\obj\Debug\net6.0\MA-Refactor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\obj\Debug\net6.0\MA-Refactor2.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\obj\Debug\net6.0\MA-Refactor2.AssemblyInfo.cs
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\obj\Debug\net6.0\MA-Refactor2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\obj\Debug\net6.0\MA-Refactor2.dll
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\obj\Debug\net6.0\refint\MA-Refactor2.dll
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\obj\Debug\net6.0\MA-Refactor2.pdb
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\obj\Debug\net6.0\MA-Refactor2.genruntimeconfig.cache
+C:\Users\USER\source\BL\MoodAnalyser\MA-Refactor2\MA-Refactor2\obj\Debug\net6.0\ref\MA-Refactor2.dll
